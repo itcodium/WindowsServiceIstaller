@@ -1,0 +1,11 @@
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\bin\Debug\NewsServiceCaller.exe
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\bin\Debug\NewsServiceCaller.pdb
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\obj\Debug\NewsServiceCaller.NewsCallerInstaller.resources
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\obj\Debug\NewsServiceCaller.Service1.resources
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\obj\Debug\NewsServiceCaller.csproj.GenerateResource.Cache
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\obj\Debug\NewsServiceCaller.exe
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\obj\Debug\NewsServiceCaller.pdb
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\bin\Debug\NewsServiceCaller.exe.config
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\bin\Debug\WebPageCaller.dll
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\bin\Debug\WebPageCaller.pdb

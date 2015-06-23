@@ -1,0 +1,6 @@
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\WebPageCaller\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\WebPageCaller\bin\Debug\WebPageCaller.dll.config
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\WebPageCaller\bin\Debug\WebPageCaller.dll
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\WebPageCaller\bin\Debug\WebPageCaller.pdb
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\WebPageCaller\obj\Debug\WebPageCaller.dll
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\WebPageCaller\obj\Debug\WebPageCaller.pdb

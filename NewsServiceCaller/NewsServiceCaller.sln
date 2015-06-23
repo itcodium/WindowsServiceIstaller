@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsServiceCaller", "NewsServiceCaller\NewsServiceCaller.csproj", "{79D5E607-0F8A-4716-B69E-78F3EB3DC915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPageCaller", "WebPageCaller\WebPageCaller.csproj", "{1B0E04C4-587E-4186-8F58-F83218E23D66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{9008E2CC-6027-40DE-A08E-2E6744704588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D5E607-0F8A-4716-B69E-78F3EB3DC915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D5E607-0F8A-4716-B69E-78F3EB3DC915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D5E607-0F8A-4716-B69E-78F3EB3DC915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D5E607-0F8A-4716-B69E-78F3EB3DC915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B0E04C4-587E-4186-8F58-F83218E23D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0E04C4-587E-4186-8F58-F83218E23D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0E04C4-587E-4186-8F58-F83218E23D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0E04C4-587E-4186-8F58-F83218E23D66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9008E2CC-6027-40DE-A08E-2E6744704588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9008E2CC-6027-40DE-A08E-2E6744704588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9008E2CC-6027-40DE-A08E-2E6744704588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9008E2CC-6027-40DE-A08E-2E6744704588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

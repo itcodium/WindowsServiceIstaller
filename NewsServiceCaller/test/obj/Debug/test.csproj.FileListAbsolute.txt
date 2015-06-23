@@ -1,0 +1,8 @@
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\test\bin\Debug\test.exe
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\test\bin\Debug\test.pdb
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\test\bin\Debug\WebPageCaller.dll
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\test\bin\Debug\WebPageCaller.pdb
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\test\obj\Debug\test.exe
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\test\obj\Debug\test.pdb
+C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\test\bin\Debug\test.exe.config

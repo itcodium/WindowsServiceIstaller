@@ -1,0 +1,23 @@
+﻿Instalando ensamblado 'C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\bin\Debug\NewsServiceCaller.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\bin\Debug\NewsServiceCaller.exe
+   i = 
+   logfile = C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\bin\Debug\NewsServiceCaller.InstallLog
+Instalando el servicio News Caller...
+El servicio News Caller se ha instalado correctamente.
+Creando el origen de EventLog News Caller en el registro Application...
+Confirmando ensamblado 'C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\bin\Debug\NewsServiceCaller.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\bin\Debug\NewsServiceCaller.exe
+   i = 
+   logfile = C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\bin\Debug\NewsServiceCaller.InstallLog
+Desinstalando ensamblado 'C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\bin\Debug\NewsServiceCaller.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   assemblypath = C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\bin\Debug\NewsServiceCaller.exe
+   logfile = C:\Users\Pablo Haddad\Documents\Service .Net\NewsServiceCaller\NewsServiceCaller\bin\Debug\NewsServiceCaller.InstallLog
+Quitando el origen de EventLog News Caller.
+Se está quitando el servicio News Caller del sistema...
+El servicio News Caller se ha quitado correctamente del sistema.
